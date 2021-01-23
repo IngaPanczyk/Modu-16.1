@@ -1,3 +1,4 @@
+package com.kodilla.jdbc;
 
 import com.kodilla.jdbc.DbManager;
 import org.junit.Assert;

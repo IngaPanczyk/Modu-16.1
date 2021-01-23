@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.jdbc.StoredProcTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-23T09:27:31" hostname="DESKTOP-VUOAR0M" time="0.26">
+  <properties/>
+  <testcase name="testUpdateColumnBestseller" classname="com.kodilla.jdbc.StoredProcTestSuite" time="0.26"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
